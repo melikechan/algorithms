@@ -15,7 +15,7 @@ Some search, sort algorithms written in C++.
    * [O(N^2) Algorithms](./sort_algorithms/n_square_sorting)
       * [Bubble Sort](./sort_algorithms/n_square_sorting/bubble_sort/bubble_sort.cpp)
       * [Selection Sort](./sort_algorithms/n_square_sorting/selection_sort/selection_sort.cpp)
-      * [Insertion Sort]
+      * [Insertion Sort](./sort_algorithms/n_square_sorting/insertion_sort/insertion_sort.cpp)
    * [O(N log N) Algorithms]
       * [Heap Sort]
       * [Quick Sort]
